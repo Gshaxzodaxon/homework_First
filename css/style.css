@@ -28,6 +28,7 @@
 .header__text{
     width: 450px;
     font-size: 19px;
+    color: white;
     text-shadow: 0.3px 0.3px 0.1px white;
 }
 .btn{
