@@ -7,7 +7,6 @@
     margin-left: auto;
 }
 .header{
-    
     background-color: #7167f7;
     overflow: hidden;
     background-size: cover ;
@@ -22,7 +21,7 @@
 }
 .header__title-temple{
     font-weight: bold;
-    font-size: 55px;
+    font-size: 56px;
 }
 .header__text{
     width: 450px;
@@ -128,7 +127,7 @@
     font-size: 17px;
 }
 /* .built__section{ */
-    /* background-color:rgb(243, 243, 243); */
+    /* background-color:rgb(243, 243, 243)dkf; */
 /* } */
 .built__img{
     width: 550px;
