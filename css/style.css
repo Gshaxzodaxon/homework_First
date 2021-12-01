@@ -18,10 +18,12 @@
 .header__title{
     font-weight: bold;
     font-size: 50px;
+    color: white;
 }
 .header__title-temple{
     font-weight: bold;
     font-size: 56px;
+    color: white;
 }
 .header__text{
     width: 450px;
